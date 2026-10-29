@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Guards
+namespace Anhertis.Guards
 {
     public static partial class ThrowIf
     {

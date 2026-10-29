@@ -1,6 +1,6 @@
 {
     "name": "Guards",
-    "rootNamespace": "",
+    "rootNamespace": "Anhertis.Guards",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

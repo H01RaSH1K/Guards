@@ -1,6 +1,6 @@
 {
   "name": "com.anhertis.guards",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "displayName": "Guards",
   "unity": "2022.3",
   "dependencies": {
